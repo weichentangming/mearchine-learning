@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/weifeng/learngit/tf/\344\272\272\350\204\270\350\257\206\345\210\253/samodel/train.model-50"
+all_model_checkpoint_paths: "/home/weifeng/learngit/tf/\344\272\272\350\204\270\350\257\206\345\210\253/samodel/train.model-50"
